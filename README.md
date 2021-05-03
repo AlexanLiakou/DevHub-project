@@ -7,4 +7,4 @@ One-page template for a developers' social and professional network webpage. Ple
 
 -----Technical Info-----
 	
-	The project is mainly designed using Bootstrap version 5.0. A few of its elements are finalized with custom CSS. There is also some custom Javascript used to update the copyright year in the footer and to initiate the scroll-spy feature. This webpage is also fully responsive to all media screens.
+	The project is mainly designed using Bootstrap version 5.0. A few of its elements are finalized with custom and Sass CSS. There is also some custom Javascript used to update the copyright year in the footer and to initiate the scroll-spy feature. This webpage is also fully responsive to all media screens.
